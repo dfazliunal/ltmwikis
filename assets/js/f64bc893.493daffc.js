@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkltmwikis=self.webpackChunkltmwikis||[]).push([[3697],{6038:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/ltmwikis/blog/tags/facebook","allTagsPath":"/ltmwikis/blog/tags","count":1}')}}]);
